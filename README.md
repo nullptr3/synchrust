@@ -1,2 +1,2 @@
-# synchrust
-Synchrophasor Development
+# SynchRust
+> RREES Lab @ UCSC
